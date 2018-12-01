@@ -16,6 +16,7 @@ public class Lab31 {
         System.out.println("Wartość z dzielenia a/b to \t" + a/b + "\t" + "a reszta z dzielenia a/b to " + a%b + "\n");
 
         int liczba = 31;
+        ///komentarzfff
         System.out.println("Liczba dziesiętna 10 w systemie dwojkowym to: " + Integer.toBinaryString(liczba));
         System.out.println("Liczba dziesiętna 10 w systemie osemkowym to: " + Integer.toOctalString(liczba));
         System.out.println("Liczba dziesiętna 10 w systemie heksadecymalnym to: " + Integer.toHexString(liczba));
